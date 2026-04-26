@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>BirlikteBüyüt</title>
+</head>
+<body>
+  <h1>BirlikteBüyüt</h1>
+  <p>Annelerin güvenli şekilde tanışmasına, sohbet etmesine ve destek bulmasına yardımcı olan mobil uygulama.</p>
+
+  <ul>
+    <li><a href="/privacy">Gizlilik Politikası</a></li>
+    <li><a href="/account-deletion">Hesap Silme</a></li>
+  </ul>
+
+  <p>İletişim: tgcndr@gmail.com</p>
+</body>
+</html>
